@@ -7,10 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.0",
     "firebase": "^9.4.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "react-firebaseui": "^6.0.0"
+    "react-firebaseui": "^6.0.0",
+    "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.0",
